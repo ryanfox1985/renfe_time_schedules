@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'pry'
 require 'sinatra'
 require 'graphql'
 require 'rack/contrib'
